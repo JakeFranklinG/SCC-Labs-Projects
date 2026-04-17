@@ -1,0 +1,257 @@
+═══════════════════════════════════════════════════════════════════
+   WebPinger — Detailed Network Ping Report
+   Generated : Wednesday, March 25, 2026  11:08:00
+   Machine   : PERRY
+   OS        : Microsoft Windows 10.0.26200
+   Pings/Site: 5   Timeout: 3000 ms   Payload: 32 bytes
+═══════════════════════════════════════════════════════════════════
+
+┌─ Site #01 ──────────────────────────────────────────────────────
+│  Name     : Google
+│  Host     : google.com
+│  Tested   : 11:07:45
+│
+│  Ping #1: Reply from 173.194.219.100      bytes=32  time=31 ms  TTL=105
+│  Ping #2: Reply from 173.194.219.100      bytes=32  time=27 ms  TTL=105
+│  Ping #3: Reply from 173.194.219.100      bytes=32  time=25 ms  TTL=105
+│  Ping #4: Reply from 173.194.219.100      bytes=32  time=24 ms  TTL=105
+│  Ping #5: Reply from 173.194.219.100      bytes=32  time=27 ms  TTL=105
+│
+│  ── Statistics ──────────────────────────────────
+│  Packets Sent     : 5
+│  Packets Received : 5
+│  Packets Lost     : 0
+│  Packet Loss      : 0.0 %
+│  Min RTT          : 24 ms
+│  Max RTT          : 31 ms
+│  Avg RTT          : 26 ms
+│  Jitter (max-min) : 7 ms
+│  Quality          : Excellent
+└──────────────────────────────────────────────────────────────
+
+┌─ Site #02 ──────────────────────────────────────────────────────
+│  Name     : YouTube
+│  Host     : youtube.com
+│  Tested   : 11:07:46
+│
+│  Ping #1: Reply from 142.250.9.190        bytes=32  time=25 ms  TTL=105
+│  Ping #2: Reply from 142.250.9.190        bytes=32  time=24 ms  TTL=105
+│  Ping #3: Reply from 142.250.9.190        bytes=32  time=24 ms  TTL=105
+│  Ping #4: Reply from 142.250.9.190        bytes=32  time=29 ms  TTL=105
+│  Ping #5: Reply from 142.250.9.190        bytes=32  time=28 ms  TTL=105
+│
+│  ── Statistics ──────────────────────────────────
+│  Packets Sent     : 5
+│  Packets Received : 5
+│  Packets Lost     : 0
+│  Packet Loss      : 0.0 %
+│  Min RTT          : 24 ms
+│  Max RTT          : 29 ms
+│  Avg RTT          : 26 ms
+│  Jitter (max-min) : 5 ms
+│  Quality          : Excellent
+└──────────────────────────────────────────────────────────────
+
+┌─ Site #03 ──────────────────────────────────────────────────────
+│  Name     : GitHub
+│  Host     : github.com
+│  Tested   : 11:07:47
+│
+│  Ping #1: Reply from 140.82.114.3         bytes=32  time=26 ms  TTL=50
+│  Ping #2: Reply from 140.82.114.3         bytes=32  time=24 ms  TTL=50
+│  Ping #3: Reply from 140.82.114.3         bytes=32  time=35 ms  TTL=50
+│  Ping #4: Reply from 140.82.114.3         bytes=32  time=27 ms  TTL=50
+│  Ping #5: Reply from 140.82.114.3         bytes=32  time=26 ms  TTL=50
+│
+│  ── Statistics ──────────────────────────────────
+│  Packets Sent     : 5
+│  Packets Received : 5
+│  Packets Lost     : 0
+│  Packet Loss      : 0.0 %
+│  Min RTT          : 24 ms
+│  Max RTT          : 35 ms
+│  Avg RTT          : 27 ms
+│  Jitter (max-min) : 11 ms
+│  Quality          : Excellent
+└──────────────────────────────────────────────────────────────
+
+┌─ Site #04 ──────────────────────────────────────────────────────
+│  Name     : Wikipedia
+│  Host     : wikipedia.org
+│  Tested   : 11:07:49
+│
+│  Ping #1: Reply from 208.80.154.224       bytes=32  time=24 ms  TTL=55
+│  Ping #2: Reply from 208.80.154.224       bytes=32  time=25 ms  TTL=55
+│  Ping #3: Reply from 208.80.154.224       bytes=32  time=24 ms  TTL=55
+│  Ping #4: Reply from 208.80.154.224       bytes=32  time=24 ms  TTL=55
+│  Ping #5: Reply from 208.80.154.224       bytes=32  time=31 ms  TTL=55
+│
+│  ── Statistics ──────────────────────────────────
+│  Packets Sent     : 5
+│  Packets Received : 5
+│  Packets Lost     : 0
+│  Packet Loss      : 0.0 %
+│  Min RTT          : 24 ms
+│  Max RTT          : 31 ms
+│  Avg RTT          : 25 ms
+│  Jitter (max-min) : 7 ms
+│  Quality          : Excellent
+└──────────────────────────────────────────────────────────────
+
+┌─ Site #05 ──────────────────────────────────────────────────────
+│  Name     : Reddit
+│  Host     : reddit.com
+│  Tested   : 11:07:50
+│
+│  Ping #1: Reply from 151.101.1.140        bytes=32  time=38 ms  TTL=56
+│  Ping #2: Reply from 151.101.1.140        bytes=32  time=42 ms  TTL=56
+│  Ping #3: Reply from 151.101.1.140        bytes=32  time=41 ms  TTL=56
+│  Ping #4: Reply from 151.101.1.140        bytes=32  time=43 ms  TTL=56
+│  Ping #5: Reply from 151.101.1.140        bytes=32  time=40 ms  TTL=56
+│
+│  ── Statistics ──────────────────────────────────
+│  Packets Sent     : 5
+│  Packets Received : 5
+│  Packets Lost     : 0
+│  Packet Loss      : 0.0 %
+│  Min RTT          : 38 ms
+│  Max RTT          : 43 ms
+│  Avg RTT          : 40 ms
+│  Jitter (max-min) : 5 ms
+│  Quality          : Excellent
+└──────────────────────────────────────────────────────────────
+
+┌─ Site #06 ──────────────────────────────────────────────────────
+│  Name     : Stack Overflow
+│  Host     : stackoverflow.com
+│  Tested   : 11:07:51
+│
+│  Ping #1: Reply from 198.252.206.1        bytes=32  time=25 ms  TTL=53
+│  Ping #2: Reply from 198.252.206.1        bytes=32  time=29 ms  TTL=53
+│  Ping #3: Reply from 198.252.206.1        bytes=32  time=27 ms  TTL=53
+│  Ping #4: Reply from 198.252.206.1        bytes=32  time=27 ms  TTL=53
+│  Ping #5: Reply from 198.252.206.1        bytes=32  time=24 ms  TTL=53
+│
+│  ── Statistics ──────────────────────────────────
+│  Packets Sent     : 5
+│  Packets Received : 5
+│  Packets Lost     : 0
+│  Packet Loss      : 0.0 %
+│  Min RTT          : 24 ms
+│  Max RTT          : 29 ms
+│  Avg RTT          : 26 ms
+│  Jitter (max-min) : 5 ms
+│  Quality          : Excellent
+└──────────────────────────────────────────────────────────────
+
+┌─ Site #07 ──────────────────────────────────────────────────────
+│  Name     : Cloudflare
+│  Host     : cloudflare.com
+│  Tested   : 11:07:52
+│
+│  Ping #1: Reply from 104.16.133.229       bytes=32  time=26 ms  TTL=53
+│  Ping #2: Reply from 104.16.133.229       bytes=32  time=30 ms  TTL=53
+│  Ping #3: Reply from 104.16.133.229       bytes=32  time=28 ms  TTL=53
+│  Ping #4: Reply from 104.16.133.229       bytes=32  time=27 ms  TTL=53
+│  Ping #5: Reply from 104.16.133.229       bytes=32  time=24 ms  TTL=53
+│
+│  ── Statistics ──────────────────────────────────
+│  Packets Sent     : 5
+│  Packets Received : 5
+│  Packets Lost     : 0
+│  Packet Loss      : 0.0 %
+│  Min RTT          : 24 ms
+│  Max RTT          : 30 ms
+│  Avg RTT          : 27 ms
+│  Jitter (max-min) : 6 ms
+│  Quality          : Excellent
+└──────────────────────────────────────────────────────────────
+
+┌─ Site #08 ──────────────────────────────────────────────────────
+│  Name     : Apple
+│  Host     : apple.com
+│  Tested   : 11:07:54
+│
+│  Ping #1: Reply from 17.253.144.10        bytes=32  time=33 ms  TTL=55
+│  Ping #2: Reply from 17.253.144.10        bytes=32  time=32 ms  TTL=55
+│  Ping #3: Reply from 17.253.144.10        bytes=32  time=38 ms  TTL=55
+│  Ping #4: TimedOut
+│  Ping #5: Reply from 17.253.144.10        bytes=32  time=38 ms  TTL=55
+│
+│  ── Statistics ──────────────────────────────────
+│  Packets Sent     : 5
+│  Packets Received : 4
+│  Packets Lost     : 1
+│  Packet Loss      : 20.0 %
+│  Min RTT          : 32 ms
+│  Max RTT          : 38 ms
+│  Avg RTT          : 35 ms
+│  Jitter (max-min) : 6 ms
+│  Quality          : Excellent
+└──────────────────────────────────────────────────────────────
+
+┌─ Site #09 ──────────────────────────────────────────────────────
+│  Name     : Discord
+│  Host     : discord.com
+│  Tested   : 11:07:58
+│
+│  Ping #1: Reply from 162.159.137.232      bytes=32  time=23 ms  TTL=53
+│  Ping #2: Reply from 162.159.137.232      bytes=32  time=26 ms  TTL=53
+│  Ping #3: Reply from 162.159.137.232      bytes=32  time=25 ms  TTL=53
+│  Ping #4: Reply from 162.159.137.232      bytes=32  time=24 ms  TTL=53
+│  Ping #5: Reply from 162.159.137.232      bytes=32  time=23 ms  TTL=53
+│
+│  ── Statistics ──────────────────────────────────
+│  Packets Sent     : 5
+│  Packets Received : 5
+│  Packets Lost     : 0
+│  Packet Loss      : 0.0 %
+│  Min RTT          : 23 ms
+│  Max RTT          : 26 ms
+│  Avg RTT          : 24 ms
+│  Jitter (max-min) : 3 ms
+│  Quality          : Excellent
+└──────────────────────────────────────────────────────────────
+
+┌─ Site #10 ──────────────────────────────────────────────────────
+│  Name     : OpenAI
+│  Host     : openai.com
+│  Tested   : 11:07:59
+│
+│  Ping #1: Reply from 172.64.154.211       bytes=32  time=27 ms  TTL=53
+│  Ping #2: Reply from 172.64.154.211       bytes=32  time=25 ms  TTL=53
+│  Ping #3: Reply from 172.64.154.211       bytes=32  time=28 ms  TTL=53
+│  Ping #4: Reply from 172.64.154.211       bytes=32  time=25 ms  TTL=53
+│  Ping #5: Reply from 172.64.154.211       bytes=32  time=27 ms  TTL=53
+│
+│  ── Statistics ──────────────────────────────────
+│  Packets Sent     : 5
+│  Packets Received : 5
+│  Packets Lost     : 0
+│  Packet Loss      : 0.0 %
+│  Min RTT          : 25 ms
+│  Max RTT          : 28 ms
+│  Avg RTT          : 26 ms
+│  Jitter (max-min) : 3 ms
+│  Quality          : Excellent
+└──────────────────────────────────────────────────────────────
+
+═══════════════════════════════════════════════════════════════════
+   SUMMARY TABLE
+═══════════════════════════════════════════════════════════════════
+   #   Website            Host                    Avg(ms)  Min(ms)  Max(ms)   Loss% Quality     
+   ------------------------------------------------------------------------------------------
+   1   Google             google.com                   26       24       31    0.0% Excellent   
+   2   YouTube            youtube.com                  26       24       29    0.0% Excellent   
+   3   GitHub             github.com                   27       24       35    0.0% Excellent   
+   4   Wikipedia          wikipedia.org                25       24       31    0.0% Excellent   
+   5   Reddit             reddit.com                   40       38       43    0.0% Excellent   
+   6   Stack Overflow     stackoverflow.com            26       24       29    0.0% Excellent   
+   7   Cloudflare         cloudflare.com               27       24       30    0.0% Excellent   
+   8   Apple              apple.com                    35       32       38   20.0% Excellent   
+   9   Discord            discord.com                  24       23       26    0.0% Excellent   
+   10  OpenAI             openai.com                   26       25       28    0.0% Excellent   
+
+═══════════════════════════════════════════════════════════════════
+   QUALITY SCALE: Excellent <50ms | Good 50-99ms | Fair 100-249ms | Poor ≥250ms
+═══════════════════════════════════════════════════════════════════
