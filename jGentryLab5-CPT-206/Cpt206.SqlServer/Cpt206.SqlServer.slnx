@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Cpt206.SqlServer/Cpt206.SqlServer.csproj" />
+  <Project Path="DataContext.SqlServer/DataContext.SqlServer.csproj" />
+</Solution>
