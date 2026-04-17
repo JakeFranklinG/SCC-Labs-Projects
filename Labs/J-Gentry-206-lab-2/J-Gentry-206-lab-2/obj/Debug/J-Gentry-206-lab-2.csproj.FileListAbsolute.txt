@@ -1,0 +1,12 @@
+C:\Users\pcgen\source\repos\206\J-Gentry-206-lab-2\J-Gentry-206-lab-2\bin\Debug\CityDB.mdf
+C:\Users\pcgen\source\repos\206\J-Gentry-206-lab-2\J-Gentry-206-lab-2\bin\Debug\CityDB_log.ldf
+C:\Users\pcgen\source\repos\206\J-Gentry-206-lab-2\J-Gentry-206-lab-2\bin\Debug\J-Gentry-206-lab-2.exe.config
+C:\Users\pcgen\source\repos\206\J-Gentry-206-lab-2\J-Gentry-206-lab-2\bin\Debug\J-Gentry-206-lab-2.exe
+C:\Users\pcgen\source\repos\206\J-Gentry-206-lab-2\J-Gentry-206-lab-2\bin\Debug\J-Gentry-206-lab-2.pdb
+C:\Users\pcgen\source\repos\206\J-Gentry-206-lab-2\J-Gentry-206-lab-2\obj\Debug\J-Gentry-206-lab-2.csproj.AssemblyReference.cache
+C:\Users\pcgen\source\repos\206\J-Gentry-206-lab-2\J-Gentry-206-lab-2\obj\Debug\J_Gentry_206_lab_2.Form1.resources
+C:\Users\pcgen\source\repos\206\J-Gentry-206-lab-2\J-Gentry-206-lab-2\obj\Debug\J_Gentry_206_lab_2.Properties.Resources.resources
+C:\Users\pcgen\source\repos\206\J-Gentry-206-lab-2\J-Gentry-206-lab-2\obj\Debug\J-Gentry-206-lab-2.csproj.GenerateResource.cache
+C:\Users\pcgen\source\repos\206\J-Gentry-206-lab-2\J-Gentry-206-lab-2\obj\Debug\J-Gentry-206-lab-2.csproj.CoreCompileInputs.cache
+C:\Users\pcgen\source\repos\206\J-Gentry-206-lab-2\J-Gentry-206-lab-2\obj\Debug\J-Gentry-206-lab-2.exe
+C:\Users\pcgen\source\repos\206\J-Gentry-206-lab-2\J-Gentry-206-lab-2\obj\Debug\J-Gentry-206-lab-2.pdb
