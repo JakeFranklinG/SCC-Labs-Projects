@@ -1,0 +1,6 @@
+C:\Users\pcgen\source\repos\206\StateDatabasePrime\StateClassLibrary\bin\Debug\StateClassLibrary.dll
+C:\Users\pcgen\source\repos\206\StateDatabasePrime\StateClassLibrary\bin\Debug\StateClassLibrary.pdb
+C:\Users\pcgen\source\repos\206\StateDatabasePrime\StateClassLibrary\obj\Debug\StateClassLibrary.csproj.AssemblyReference.cache
+C:\Users\pcgen\source\repos\206\StateDatabasePrime\StateClassLibrary\obj\Debug\StateClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\pcgen\source\repos\206\StateDatabasePrime\StateClassLibrary\obj\Debug\StateClassLibrary.dll
+C:\Users\pcgen\source\repos\206\StateDatabasePrime\StateClassLibrary\obj\Debug\StateClassLibrary.pdb
